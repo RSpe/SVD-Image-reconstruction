@@ -9,3 +9,5 @@
 4. My thoughts on why there is negative compression at greater p values.
 
 5. What I think is an optimal p value is when comparing the compression (size of the approximation), and the quality of the image compared the to the orginal image.
+
+If you need an explanation of what SVD is: https://en.wikipedia.org/wiki/Singular_value_decomposition
