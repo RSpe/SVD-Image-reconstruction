@@ -1,6 +1,6 @@
 # SVD-reconstruction
 
-1. Deconstruciton of black and white image via SVD showing the image in the form A = UDV^-T
+1. Deconstruciton of black and white image (me2.pgm) via SVD showing the image in the form A = UDV^-T
 
 2. Then illustrate the resulting approximation of A at certain points when we increase the value of p (where p is equal to the singular values/columns of U and V)
 
